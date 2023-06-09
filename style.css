@@ -1,0 +1,64 @@
+
+body {
+  background-color:teal;
+}
+.f {
+  font-family: Century Gothic;
+  font-weight: bolder;
+  font-size: 25px;
+  text-align: center;
+  color: blue;
+  word-spacing: 5px;
+  letter-spacing: 1px;
+}
+.g {
+  text-align: center;
+  font-family: Century Gothic;
+  font-weight: bold;
+}
+.text {
+  height: 25px;
+  width: 250px;
+}
+#g {
+  font-family: Century Gothic;
+  font-weight: bolder;
+}
+.radio {
+  border-style: groove;
+  width: 250px;
+  height: 25px;
+}
+.rad {
+  border-style: groove;
+  width: 250px;
+  height: 30px;
+}
+.radi {
+  padding-left: 430px;
+}
+.id {
+  margin: 5px;
+}
+form {
+  padding-left: 350px;
+}
+.submit {
+  font-family: Century Gothic;
+  height: 35px;
+  width: 100px;
+}
+.sub {
+  height: 30px;
+  color: white;
+  font-weight: bold;
+  background-color: blue;
+  align-content: center;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+a :hover{
+  color: black;
+}
